@@ -1,0 +1,24 @@
+.root{
+    -fx-background-color: #383838;        
+}
+.label{
+    -fx-background-color: #383838;
+    -fx-text-fill:#383838; 
+}
+.button{
+    -fx-background-color: #383890;
+    -fx-text-fill: #383838;
+    -fx-background-radius: 4;
+}
+.labelx{
+    -fx-background-color:#767676;
+}
+#button2{
+    -fx-background-color: #383838;
+}
+#combobox{
+    -fx-background-color: #383838;
+}
+
+
+
